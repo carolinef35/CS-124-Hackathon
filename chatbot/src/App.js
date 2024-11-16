@@ -17,7 +17,7 @@ function App() {
     setInput('');
 
     try {
-      const response = await axios.post('http://localhost:5000/api/chat', {
+      const response = await axios.post('http://localhost:8000/api/chat', {
         message: input,
         subject: subject,
       }, {

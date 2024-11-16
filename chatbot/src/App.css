@@ -1,62 +1,125 @@
+/* General Styles */
 .App {
   text-align: center;
   padding: 20px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  background-color: #FFF8DC; /* Light beige background */
 }
 
+/* Subject Buttons */
 .subject-buttons {
   margin-bottom: 20px;
 }
 
 .subject-buttons button {
   margin: 0 10px;
-  padding: 10px 20px;
+  padding: 12px 25px;
   border: none;
-  background-color: #007bff;
-  color: white;
+  background-color: #FFCC00; /* Bright yellow */
+  color: #333; /* Dark text for contrast */
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
+  font-size: 1.1rem;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.subject-buttons button:hover {
+  background-color: #FFB300; /* Darker yellow on hover */
+  transform: translateY(-3px);
 }
 
 .subject-buttons button.active {
-  background-color: #28a745;
+  background-color: #4CAF50; /* Bright green for active */
+  color: white;
 }
 
+/* Chat Container */
 .chat-container {
-  width: 500px;
+  width: 80%;
+  max-width: 600px;
   margin: 0 auto;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 20px;
+  background-color: #FFF0F5; /* Light pink background */
+  border: 3px solid #FF69B4; /* Hot pink border */
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
 
+/* Chat Box */
 .chat-box {
-  height: 300px;
+  height: 350px;
   overflow-y: auto;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  background-color: #FFFFFF; /* White background for chat */
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* User and Bot Messages */
 .user-message {
   text-align: right;
-  color: blue;
+  background-color: #ADD8E6; /* Light blue */
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 15px 15px 0 15px;
+  margin: 8px 0;
+  display: inline-block;
+  max-width: 75%;
 }
 
 .bot-message {
   text-align: left;
-  color: green;
+  background-color: #FFD700; /* Gold for bot messages */
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 15px 15px 15px 0;
+  margin: 8px 0;
+  display: inline-block;
+  max-width: 75%;
 }
 
+/* Input Area */
 input {
-  width: calc(100% - 80px);
-  padding: 10px;
-  margin-right: 10px;
+  width: calc(100% - 110px);
+  padding: 12px;
+  border: 2px solid #FF69B4; /* Hot pink border */
+  border-radius: 20px;
+  font-size: 1rem;
+  outline: none;
 }
 
+input::placeholder {
+  color: #999;
+}
+
+/* Send Button */
 button {
-  padding: 10px;
-  background-color: #007bff;
+  padding: 12px 20px;
+  background-color: #FF69B4; /* Hot pink button */
   color: white;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
+  font-size: 1rem;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #FF1493; /* Darker pink on hover */
+  transform: translateY(-3px);
+}
+
+/* Scrollbar Styling */
+.chat-box::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+  background-color: #FF69B4; /* Hot pink */
+  border-radius: 10px;
+}
+
+.chat-box::-webkit-scrollbar-track {
+  background-color: #FFDAB9; /* Peach background for scrollbar track */
 }

@@ -54,7 +54,7 @@ function App() {
           alt="LearnLion"
           className="learn-lion-logo"
         />
-        <h1>Welcome to LearnLion</h1>
+        <h1>Welcome to LearnLion!</h1>
       </header>
       <div className="subject-buttons">
         {subjects.map((subj) => (

@@ -123,3 +123,9 @@ button:hover {
 .chat-box::-webkit-scrollbar-track {
   background-color: #FFDAB9; /* Peach background for scrollbar track */
 }
+
+.learn-lion-logo {
+  width: 400px; /* Adjust size as needed */
+  height: auto;
+  margin-bottom: 20px;
+}

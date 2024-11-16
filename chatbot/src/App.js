@@ -48,6 +48,14 @@ function App() {
 
   return (
     <div className="App">
+      <header className = "App-header">
+        <img 
+          src={`${process.env.PUBLIC_URL}/LearnLionNewLogo.png`}
+          alt="LearnLion"
+          className="learn-lion-logo"
+        />
+        <h1>Welcome to LearnLion!</h1>
+      </header>
       <div className="subject-buttons">
         {subjects.map((subj) => (
           <button

@@ -1,0 +1,330 @@
+Student: What’s 25 + 47?
+Explanation: To solve 25 + 47, we add the digits in the ones place first: 5 + 7 = 12. Write down 2 and carry over the 1 to the tens place. Then add the digits in the tens place: 2 + 4 = 6, plus the 1 we carried over makes 7. So, the answer is 72.
+
+Student: How do I subtract 81 - 37?
+Explanation: Start with the ones place: 1 - 7. Since 1 is smaller than 7, borrow 1 from the tens place, turning the 8 into a 7 and the 1 into an 11. Now, 11 - 7 = 4. Move to the tens place: 7 - 3 = 4. The answer is 44.
+
+Student: What’s 6 × 9?
+Explanation: To solve 6 × 9, think of it as adding 6 nine times: 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6 = 54. Alternatively, memorize that 6 times 9 equals 54 from the multiplication table.
+
+Student: How do I divide 48 ÷ 6?
+Explanation: Division is like asking, "How many groups of 6 are in 48?" Start by skip counting by 6: 6, 12, 18, 24, 30, 36, 42, 48. That’s 8 groups of 6. So, 48 ÷ 6 = 8.
+
+Student: If I have 3/4 of a pizza and eat 1/4, how much is left?
+Explanation: Subtract the fractions: 3/4 - 1/4. Since the denominators (4) are the same, just subtract the numerators: 3 - 1 = 2. So, you have 2/4, which simplifies to 1/2.
+
+Student: What’s 1/2 of 16?
+Explanation: To find 1/2 of 16, divide 16 by 2. Half of 16 is 8.
+
+Student: How many sides does a hexagon have?
+Explanation: A hexagon is a shape with six sides. The prefix "hex-" means six. So, the answer is 6.
+
+Student: What’s the perimeter of a square with a side length of 4?
+Explanation: The perimeter of a square is the sum of all its sides. A square has four equal sides, so add 4 + 4 + 4 + 4, or multiply 4 × 4. The perimeter is 16.
+
+Student: How do I solve 123 + 456?
+Explanation: Add column by column, starting with the ones place:
+
+Ones: 3 + 6 = 9
+Tens: 2 + 5 = 7
+Hundreds: 1 + 4 = 5
+The answer is 579.
+Student: What’s 100 - 45?
+Explanation: Subtract column by column. Start with the ones place: 0 - 5. Since 0 is smaller than 5, borrow 1 from the tens place, turning the 0 into 10 and reducing the tens place from 10 to 9. Now, 10 - 5 = 5. In the tens place: 9 - 4 = 5. The answer is 55.
+
+Student: How do I multiply 12 × 3?
+Explanation: Break it into smaller problems: 12 × 3 = (10 × 3) + (2 × 3). That’s 30 + 6 = 36.
+
+Student: What’s 15 ÷ 5?
+Explanation: To divide 15 by 5, think of it as, "How many groups of 5 are in 15?" The answer is 3 because 5 + 5 + 5 = 15.
+
+Student: A rectangle has a length of 8 and a width of 3. What’s its area?
+Explanation: The area of a rectangle is found by multiplying its length by its width. 8 × 3 = 24 square units.
+
+Student: If I save $2 every day, how much will I have in 10 days?
+Explanation: Multiply the amount saved per day by the number of days: 2 × 10 = 20.
+
+Student: There are 5 rows of chairs with 6 chairs in each row. How many chairs are there?
+Explanation: Multiply the number of rows by the number of chairs per row: 5 × 6 = 30.
+
+Student: What’s 1/3 of 18?
+Explanation: To find 1/3 of 18, divide 18 by 3. The answer is 6.
+
+Student: How do I find the volume of a cube with side length 4?
+Explanation: The volume of a cube is side × side × side. Multiply: 4 × 4 × 4 = 64 cubic units.
+
+Student: What’s 38 + 49?
+Explanation: Add column by column:
+
+Ones: 8 + 9 = 17 (write 7, carry 1)
+Tens: 3 + 4 + 1 (carried) = 8
+The answer is 87.
+Student: How do I subtract 204 - 79?
+Explanation: Subtract column by column:
+
+Ones: 4 - 9 → Borrow 1, turning 0 into 10. Now 14 - 9 = 5.
+Tens: 9 borrowed from the hundreds place, so 9 - 7 = 2.
+Hundreds: 2 - 0 = 2.
+The answer is 125.
+Student: What’s 7 × 8?
+Explanation: Multiply 7 by 8 using repeated addition: 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 = 56. The answer is 56.
+
+Student: How do I divide 72 ÷ 9?
+Explanation: Ask, "How many groups of 9 are in 72?" Use multiplication to check: 9 × 8 = 72. So, the answer is 8.
+
+Student: What’s 1/4 of 20?
+Explanation: To find 1/4 of 20, divide 20 by 4. The answer is 5.
+
+Student: If a triangle has a base of 6 and a height of 4, what’s its area?
+Explanation: The area of a triangle is 1/2 × base × height. Multiply 6 × 4 = 24, then divide by 2. The answer is 12 square units.
+
+Student: What’s the perimeter of a rectangle with length 7 and width 3?
+Explanation: Perimeter is 2 × (length + width). Add the length and width: 7 + 3 = 10, then multiply by 2. The perimeter is 20 units.
+
+Student: How do I solve 342 + 157?
+Explanation: Add column by column:
+
+Ones: 2 + 7 = 9
+Tens: 4 + 5 = 9
+Hundreds: 3 + 1 = 4
+The answer is 499.
+Student: What’s 600 - 273?
+Explanation: Subtract column by column:
+
+Ones: 0 - 3 → Borrow 1 from the tens place, turning the tens into 9. Now, 10 - 3 = 7.
+Tens: 9 - 7 = 2.
+Hundreds: 5 - 2 = 3.
+The answer is 327.
+Student: How do I multiply 14 × 5?
+Explanation: Break it into smaller parts:
+
+14 × 5 = (10 × 5) + (4 × 5)
+50 + 20 = 70.
+The answer is 70.
+Student: If there are 36 apples and I share them equally among 6 friends, how many does each get?
+Explanation: Divide 36 by 6: 36 ÷ 6 = 6. Each friend gets 6 apples.
+
+Student: What’s 3/5 of 25?
+Explanation: To find 3/5 of 25, first divide 25 by 5 to get 5. Then multiply by 3: 5 × 3 = 15.
+
+Student: If a square has a side length of 9, what’s its area?
+Explanation: The area of a square is side × side. Multiply: 9 × 9 = 81 square units.
+
+Student: What’s 1000 - 458?
+Explanation: Subtract column by column:
+
+Ones: 0 - 8 → Borrow 1 from the tens place, making it 10 - 8 = 2.
+Tens: 9 - 5 = 4.
+Hundreds: 9 - 4 = 5.
+The answer is 542.
+Student: How do I solve 8 × 25?
+Explanation: Multiply step by step:
+
+8 × 25 = 8 × (20 + 5) = (8 × 20) + (8 × 5)
+160 + 40 = 200.
+The answer is 200.
+Student: If I walk 2 miles every day, how far will I walk in 14 days?
+Explanation: Multiply the distance per day by the number of days: 2 × 14 = 28 miles.
+
+Student: How many faces does a cube have?
+Explanation: A cube has 6 square faces. The answer is 6.
+
+Student: What’s 4/8 simplified?
+Explanation: Divide the numerator (4) and denominator (8) by their greatest common factor, which is 4:
+4 ÷ 4 = 1, 8 ÷ 4 = 2. The simplified fraction is 1/2.
+
+Student: If a train travels 60 miles per hour, how far will it travel in 5 hours?
+Explanation: Multiply the speed by the time: 60 × 5 = 300 miles.
+
+Student: What’s the greatest common factor (GCF) of 18 and 24?
+Explanation: List the factors:
+
+Factors of 18: 1, 2, 3, 6, 9, 18
+Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24
+The largest common factor is 6.
+Student: If I roll a die, what’s the probability of rolling a 4?
+Explanation: A die has 6 sides. The chance of rolling a specific number is 1 out of 6. The probability is 1/6.
+
+Student: A school has 300 students. If 150 are girls, what fraction are girls?
+Explanation: The fraction of girls is the number of girls divided by the total number of students: 150/300 = 1/2. So, 1/2 of the students are girls.
+
+Student: What’s 15% of 200?
+Explanation: To find 15% of 200, convert 15% to a decimal (0.15) and multiply: 0.15 × 200 = 30.
+
+Student: If a rectangle’s length is 12 and its width is 4, what’s its perimeter?
+Explanation: Perimeter = 2 × (length + width). Add the length and width: 12 + 4 = 16, then multiply by 2. The perimeter is 32 units.
+
+Student: Can you help me with 56 + 87?
+Explanation: Sure! To add 56 and 87, start with the ones place: 6 + 7 = 13. Write down the 3 and carry over 1 to the tens place. Then, add the tens: 5 + 8 = 13, and don’t forget the 1 you carried over, so 13 + 1 = 14. The final answer is 143.
+
+Student: How do I figure out 300 - 124?
+Explanation: Subtraction can be done step by step. Start with the ones place: 0 - 4 isn’t possible, so borrow 1 from the tens place. This makes it 10 - 4 = 6. In the tens place, since you borrowed, it’s now 9 - 2 = 7. Finally, in the hundreds place, 3 - 1 = 2. So, the result is 176.
+
+Student: What’s the answer to 9 × 6?
+Explanation: Multiplying 9 by 6 is the same as adding 9 to itself six times: 9 + 9 + 9 + 9 + 9 + 9 = 54. A quicker way is to memorize your multiplication table, where 9 × 6 = 54.
+
+Student: I don’t understand 42 ÷ 7.
+Explanation: No problem! Division is like asking, "How many groups of 7 fit into 42?" Start by skip counting by 7s: 7, 14, 21, 28, 35, 42. That’s 6 groups of 7. So, 42 ÷ 7 = 6.
+
+Student: If I eat 2/8 of a pizza, how much is left?
+Explanation: To find out how much pizza is left, subtract the fraction eaten from the whole pizza: 8/8 - 2/8 = 6/8. This can be simplified by dividing both numerator and denominator by 2, so 6/8 = 3/4.
+
+Student: What is half of 36?
+Explanation: Half of a number means dividing it by 2. When you divide 36 by 2, you get 18.
+
+Student: How many corners does a pentagon have?
+Explanation: A pentagon is a shape with five sides. Each corner is where two sides meet, so a pentagon has 5 corners.
+
+Student: How do I calculate the perimeter of a square if each side is 5?
+Explanation: A square has four equal sides, so to find the perimeter, you multiply the side length by 4: 5 × 4 = 20 units.
+
+Student: What’s 175 + 326?
+Explanation: Let’s add column by column:
+
+Ones: 5 + 6 = 11 (write 1, carry 1)
+Tens: 7 + 2 + 1 (carried) = 10 (write 0, carry 1)
+Hundreds: 1 + 3 + 1 (carried) = 5
+The total is 501.
+Student: How do I subtract 503 - 298?
+Explanation: Start from the ones place: 3 - 8 isn’t possible, so borrow 1 from the tens place (turning it to 9), making it 13 - 8 = 5. In the tens place, 9 - 9 = 0. In the hundreds place, 4 - 2 = 2. The answer is 205.
+
+Student: Can you show me how to do 12 × 4?
+Explanation: Sure! Multiplying 12 by 4 can be broken into smaller steps:
+
+10 × 4 = 40
+2 × 4 = 8
+Now add them: 40 + 8 = 48.
+Student: If there are 48 candies, and I share them with 8 friends, how many does each get?
+Explanation: To find out, divide 48 by 8: 48 ÷ 8 = 6. Each friend gets 6 candies.
+
+Student: What’s 2/3 of 18?
+Explanation: Finding 2/3 of a number means multiplying it by 2/3:
+
+Divide 18 by 3 to get 6.
+Multiply 6 by 2: 6 × 2 = 12.
+Student: How do I find the area of a rectangle that’s 10 long and 4 wide?
+Explanation: To find the area of a rectangle, multiply its length by its width: 10 × 4 = 40 square units.
+
+Student: What’s 15% of 60?
+Explanation: Convert 15% to a decimal (0.15) and multiply by 60:
+0.15 × 60 = 9. So, 15% of 60 is 9.
+
+Student: A triangle has sides of 3, 4, and 5. What’s its perimeter?
+Explanation: To find the perimeter of a triangle, add up all its sides: 3 + 4 + 5 = 12 units.
+
+Student: I’m stuck on 123 + 789.
+Explanation: Let’s add it up:
+
+Ones: 3 + 9 = 12 (write 2, carry 1)
+Tens: 2 + 8 + 1 (carried) = 11 (write 1, carry 1)
+Hundreds: 1 + 7 + 1 (carried) = 9
+The total is 912.
+Student: What’s 500 - 145?
+Explanation: Start from the ones place: 0 - 5 isn’t possible, so borrow 1 from the tens place (making it 10 - 5 = 5). In the tens place, 9 - 4 = 5. In the hundreds, 4 - 1 = 3. The answer is 355.
+
+Student: How do I figure out 7 × 14?
+Explanation: Break it into smaller parts:
+
+7 × 14 = (7 × 10) + (7 × 4) = 70 + 28 = 98.
+Student: If a shape has 4 equal sides and all angles are 90°, what is it?
+Explanation: A shape with 4 equal sides and 90° angles is a square.
+
+Student: What’s the greatest common factor (GCF) of 24 and 36?
+Explanation: List the factors of both numbers:
+
+Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24
+Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36
+The largest number in both lists is 12.
+Student: What’s the probability of flipping heads on a coin?
+Explanation: A coin has two sides, heads and tails. The chance of getting heads is 1 out of 2, or 1/2.
+
+Student: If I save $5 each week, how much will I have after 10 weeks?
+Explanation: Multiply the amount saved per week by the number of weeks: 5 × 10 = $50.
+
+Student: How much is 64 + 128?
+Explanation: Add column by column:
+
+Ones: 4 + 8 = 12 (write 2, carry 1)
+Tens: 6 + 2 + 1 (carried) = 9
+Hundreds: 1 + 0 = 1
+So, the total is 192.
+Student: I need help subtracting 800 - 345.
+Explanation: Start with the ones place: 0 - 5 isn’t possible, so borrow 1 from the tens place, making it 10 - 5 = 5. In the tens, now it’s 9 - 4 = 5. In the hundreds, 7 - 3 = 4. The answer is 455.
+
+Student: What’s 7 times 9?
+Explanation: Multiplying 7 by 9 gives the same result as adding 7 nine times: 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 = 63. The answer is 63.
+
+Student: How do I divide 81 by 9?
+Explanation: Division asks, “How many times does 9 go into 81?” Multiply to check: 9 × 9 = 81. So, 81 ÷ 9 = 9.
+
+Student: What’s 3/4 of 20?
+Explanation: To find 3/4 of a number, divide the number by 4 and then multiply by 3:
+
+20 ÷ 4 = 5
+5 × 3 = 15.
+Student: If I have a triangle with a base of 8 and a height of 5, what’s its area?
+Explanation: The formula for the area of a triangle is 1/2 × base × height. Multiply:
+
+8 × 5 = 40
+40 ÷ 2 = 20
+The area is 20 square units.
+Student: How do I find the perimeter of a rectangle that’s 12 long and 7 wide?
+Explanation: The perimeter of a rectangle is 2 × (length + width). Add the sides: 12 + 7 = 19. Multiply by 2: 19 × 2 = 38 units.
+
+Student: What’s 2 × 45?
+Explanation: Break it into parts to make it easier:
+
+2 × 45 = (2 × 40) + (2 × 5)
+80 + 10 = 90.
+Student: If I split 72 candies equally among 12 friends, how many does each get?
+Explanation: Divide 72 by 12 to find the answer: 72 ÷ 12 = 6. Each friend gets 6 candies.
+
+Student: What’s 25% of 80?
+Explanation: To find 25%, divide the number by 4 because 25% is the same as 1/4:
+80 ÷ 4 = 20.
+
+Student: How many faces does a rectangular prism have?
+Explanation: A rectangular prism has 6 faces, just like a cube. The answer is 6.
+
+Student: Can you show me 8 × 12?
+Explanation: Multiply step by step:
+
+8 × 12 = (8 × 10) + (8 × 2)
+80 + 16 = 96.
+Student: If I run 3 miles every day for 7 days, how far will I run?
+Explanation: Multiply the distance per day by the number of days:
+3 × 7 = 21 miles.
+
+Student: What’s the largest common factor of 30 and 45?
+Explanation: First, list their factors:
+
+Factors of 30: 1, 2, 3, 5, 6, 10, 15, 30
+Factors of 45: 1, 3, 5, 9, 15, 45
+The greatest number in both lists is 15.
+Student: What’s the area of a square with sides of 11?
+Explanation: The area of a square is side × side. Multiply:
+11 × 11 = 121 square units.
+
+Student: How do I subtract 1000 - 563?
+Explanation: Subtract column by column:
+
+Ones: 0 - 3 → Borrow 1 from the tens place to make it 10 - 3 = 7.
+Tens: 9 - 6 = 3.
+Hundreds: 9 - 5 = 4.
+The result is 437.
+Student: I’m confused about 6 × 24. Can you help?
+Explanation: Break it into steps:
+
+6 × 24 = (6 × 20) + (6 × 4)
+120 + 24 = 144.
+Student: What’s the perimeter of an equilateral triangle with sides of 9?
+Explanation: For an equilateral triangle, all sides are the same. Multiply the side length by 3:
+9 × 3 = 27 units.
+
+Student: If I save $8 each week, how much will I have in 6 weeks?
+Explanation: Multiply the weekly savings by the number of weeks:
+8 × 6 = $48.
+
+Student: How do I simplify 6/10?
+Explanation: Find the greatest common factor (GCF) of 6 and 10, which is 2. Divide both numerator and denominator by 2:
+6 ÷ 2 = 3, 10 ÷ 2 = 5. The simplified fraction is 3/5.
